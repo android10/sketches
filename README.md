@@ -1,7 +1,7 @@
 # Sketches
 These are technical sketches related to Software engineering: architecture, projects, workflows. Here is an example:
 
-TODO
+![banner](https://raw.githubusercontent.com/android10/sketches/master/workflow/git_flow_wire.png)
 
 ## License
 
