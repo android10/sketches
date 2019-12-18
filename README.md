@@ -1,11 +1,13 @@
 # Sketches
-These are technical sketches related to Software engineering: architecture, projects, workflows. Here is an example:
+These are technical sketches related to Software engineering: architecture, projects, workflows.
+
+## Examples
 
 ![banner](https://raw.githubusercontent.com/android10/sketches/master/workflow/git_flow_wire.png)
 
 ## License
 
-    Copyright 2018 Fernando Cejas
+    Copyright 2019 Fernando Cejas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
